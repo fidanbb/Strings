@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D5BA3702-FB18-4D34-B2C5-07C8D26BC774}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClassWorkHeapStackAndOverloadMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWorkHeapStackAndOverloadMethods/Program.cs">
+    <Files>
+      <File FileName="ClassWorkHeapStackAndOverloadMethods/Program.cs" Line="221" Column="1" />
+      <File FileName="ClassWorkHeapStackAndOverloadMethods/Class1.cs" Line="37" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWorkHeapStackAndOverloadMethods" expanded="True">
+            <Node name="ClassWorkHeapStackAndOverloadMethods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
